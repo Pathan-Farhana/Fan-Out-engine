@@ -1,0 +1,5 @@
+{
+  "name": "Vortex: High-Throughput Fan-Out Engine Monitor",
+  "description": "A high-performance dashboard and simulation tool for a Java-based distributed data fan-out engine, featuring real-time metrics, architecture visualization, and AI-powered code generation.",
+  "requestFramePermissions": []
+}
