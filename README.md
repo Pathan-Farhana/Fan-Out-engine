@@ -1,4 +1,4 @@
-# Vortex
+
 
 High-Throughput Distributed Fan-Out & Transformation Engine
 
